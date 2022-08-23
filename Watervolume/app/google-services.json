@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186656058142",
+    "firebase_url": "https://water-volume-9cd60-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "water-volume-9cd60",
+    "storage_bucket": "water-volume-9cd60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186656058142:android:0e6446fdfe5f625a22370f",
+        "android_client_info": {
+          "package_name": "com.example.watervolume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186656058142-n64b7vp7cmcotbeerabls0cnlipvr7bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_yvEMILddoxcFSdwd2p0HYiLi1LArZv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186656058142-n64b7vp7cmcotbeerabls0cnlipvr7bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
